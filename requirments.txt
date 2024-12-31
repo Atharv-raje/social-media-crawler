@@ -1,0 +1,36 @@
+# API and HTTP
+requests>=2.31.0
+
+# Database
+psycopg2-binary>=2.9.9
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Scheduling
+schedule>=1.2.0
+
+# Date and Time
+python-dateutil>=2.8.2
+
+# Data Processing
+json>=2.0.9
+
+# Logging and Monitoring
+logging>=0.4.9.6
+
+# Datetime utilities
+datetime>=5.2
+
+# System and OS utilities
+os-sys>=2.1.4
+
+# Time utilities
+time>=1.0.0
+
+# CSV processing (if needed)
+pandas>=2.1.0  # for data analysis
+numpy>=1.24.0  # dependency for pandas
+
+
+
