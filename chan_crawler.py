@@ -19,8 +19,8 @@ load_dotenv()
 # Database connection parameters
 DB_HOST = "localhost"
 DB_NAME = "fourchan_data"
-DB_USER = "atharvr"
-DB_PASSWORD = "Bing2025"
+DB_USER = "Your_user"
+DB_PASSWORD = "Your_password"
 DB_PORT = "5432"
 FAKTORY_SERVER_URL = "tcp://localhost:7419"
 DATABASE_URL = "postgresql://atlocalhost:5432/4chan_data/"
