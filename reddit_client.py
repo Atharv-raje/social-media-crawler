@@ -8,11 +8,11 @@ import time
 load_dotenv()
 
 # Reddit API credentials
-REDDIT_CLIENT_ID = "b01xL9Te80ZSYprJkajWgQ"
-REDDIT_SECRET = "W3_8bxv770742-k4p5AomU65Vgl3cg"
-REDDIT_USER_AGENT = "your_user_agent"
-REDDIT_USERNAME = "Unable-Age-5420"
-REDDIT_PASSWORD = "ssawant4reddit"
+REDDIT_CLIENT_ID = "Your_Id"
+REDDIT_SECRET = "Your_scrertkey"
+REDDIT_USER_AGENT = "Your_user_agent"
+REDDIT_USERNAME = "Your_user_name"
+REDDIT_PASSWORD = "Your_passoed"
 
 # Global token and expiry time cache
 token = None
